@@ -1,6 +1,8 @@
 # BrainTumors_CNN
 Este repositorio contiene el código y recursos del proyecto final de la clase "Proyecto de Ciencia de Datos".
 
+El trabajo consiste en hacer todo el proceso que conlleva un proyecto de Ciencia de Datos. Este proyecto trata de hacer un modelo de deep learning con el objetivo de clasificar correctamente imágenes de distintos tipos de tumores cerebrales, "glioma", "meningioma", "pituitario" y "normal" (sin tumor), de manera que pueda ser relevante para especialistas en el área de salud.
+
 La estructura del repositorio es la siguiente:
  
 BrainTumors_CNN/
